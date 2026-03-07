@@ -123,3 +123,12 @@ Sample dataset covers Q1 2025 (January–March) across three channels. Includes 
 
 - Microsoft Excel (Microsoft 365)
 - Power Query (M Language)
+
+## Contact
+
+**Gilchrist Jose**  
+📁 [GitHub](https://github.com/gilchrist-jose) | 💼 [LinkedIn](https://www.linkedin.com/in/gilchrist-jose-a96658322/) | ✉️ gill.christ11@gmail.com
+
+---
+
+`Excel` `Power-Query` `ETL` `Automated-Refresh` `Data-Pipeline` `Business-Intelligence`
