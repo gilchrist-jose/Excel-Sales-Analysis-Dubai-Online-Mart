@@ -20,17 +20,7 @@ E-commerce operations running across multiple marketplaces face a common challen
 ## Data Architecture
 
 ```
-Dubai_Online_Mart_Analytics/
-│
-├── Orders/
-│   ├── Website/        ← Monthly CSV exports from owned storefront
-│   ├── Noon/           ← Monthly exports from noon Partner Hub
-│   └── Amazon/         ← Monthly exports from Amazon Seller Central
-│
-├── Reference_Data/
-│   ├── customers.csv   ← CRM export (customer demographics & segments)
-│   └── product_catalog.csv  ← SKU master (categories, cost prices)
-│
+├── DOM_Dashboard.png
 └── DOM_Dashboard.xlsx  ← Single workbook: pipeline + dashboard
 ```
 
